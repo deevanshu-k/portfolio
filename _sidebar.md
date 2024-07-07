@@ -1,0 +1,4 @@
+- [Home](/)
+- [About](about.md)
+- [Projects](projects.md)
+- [Posts](posts.md)
