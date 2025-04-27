@@ -1,7 +1,7 @@
 <div style="display:flex;align-items:start;">
 <img src="./images/profile_image.png" alt="Profile Photo" title="Profile Photo" style="border-radius: 50%;margin:20px">
 <div>
-<h2>Deevanshu Kushwah <br> <span style="color:222528;font-size:20px">MEAN Developer</span></h2>
+<h2>Deevanshu Kushwah <br> <span style="color:222528;font-size:20px">Software Engineer</span></h2>
 
 </div>
 </div>
@@ -19,7 +19,7 @@
 <br>
 
 #### Experience with Technologies:
-`Angular` `Nodejs` `Javascript` `Typescript` `Github` `C++` `Express.js`
+`Rust` `Golang` `Angular` `Nodejs` `Javascript` `Typescript` `Github` `C++` `Express.js`
 `NestJS` `SQL` `MySQL` `MongoDB` `EC2` `Load Balancer` `CI/CD` `Github Action` `nano` `AWS` `Docker` `Bash` 
 
 <br>
